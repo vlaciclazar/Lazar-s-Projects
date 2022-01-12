@@ -1,5 +1,5 @@
 #-------------------------------------------------------------------------------#
-# Name:        ICS3U1 Culminating Project: Space Battle                         #
+# Name:        Space Battle Videogame                                           #
 #                                                                               #
 # Author:      Lazar                                                            #
 #                                                                               #
