@@ -1,6 +1,9 @@
-
-
-
+# - - - - - - - - - - - - - - - - - - - - - - - - -
+#  Authors: Lazar Vlacic, Emma Vanslack
+# 
+#  Baby Fever Monitor Code
+#
+# - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 from gpiozero import LED
 import time
